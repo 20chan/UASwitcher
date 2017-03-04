@@ -6,7 +6,7 @@
 
 ## Usage
 
-![망할것](/Screenshot/fuckinghelll.png)
+![망할것](/Screenshot/fuckinghell.png)
 
 대전광역시 교육청에서는 **정말 강력한 보안을 자랑하는 보안 프로그램**을 네이버에 접속할때 설치하라고 위와같이 리다이렉트시켜버린다!!
 
