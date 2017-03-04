@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Ua Switcher",
+	"version": "1.0",
+
+	"description": "A simple user-agent description",
+
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"http://www.naver.com/",
+		"http://naver.com/"
+	],
+
+	"background": {
+    "scripts": ["switcher.js"],
+    "persistent": true
+  }
+}
