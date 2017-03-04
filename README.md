@@ -1,2 +1,17 @@
 # UASwitcher
-Simple User-Agent switcher
+
+## What For
+
+네이버에 접속할때 User-Agent를 변경해주는 크롬 확장 프로그램입니다.
+
+## Usage
+
+![망할것](/Screenshot/fuckinghelll.png)
+
+대전광역시 교육청에서는 **정말 강력한 보안을 자랑하는 보안 프로그램**을 네이버에 접속할때 설치하라고 위와같이 리다이렉트시켜버린다!!
+
+하지만 나는 취약한 컴퓨터에 페티쉬를 가지고 있어서 User-Agent 헤더를 변경함으로써 위의 리다이렉트를 우회할 수 있음을 발견하였고, 자바스크립트 입문을 위하여 크롬 확장프로그램을 만들어 보려고 이와 같은 프로그램을 [K](https://github.com/wlzla000)의 도움을 받아가며 만들어 보았다.
+
+## Etcetera
+
+~~학교인터넷씨ㅂ~~
