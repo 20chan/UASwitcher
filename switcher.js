@@ -16,6 +16,6 @@ function(details) {
 		chrome.extension.getBackgroundPage().console.log("Switched!")
         return {requestHeaders: details.requestHeaders};
 },
-{urls: ["http://*/*", "https://*/*"]},
+{urls: ["http://*/*"]},
 ["blocking", "requestHeaders"]
 )
