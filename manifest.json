@@ -8,8 +8,8 @@
 	"permissions": [
 		"webRequest",
 		"webRequestBlocking",
-		"http://www.naver.com/",
-		"http://naver.com/"
+		"http://*/*",
+		"https://*/*"
 	],
 
 	"background": {

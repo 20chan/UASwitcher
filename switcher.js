@@ -11,10 +11,11 @@ function(details) {
         }
 		details.requestHeaders.push({
 		name: "User-Agent",
-		value: "Mozilla"
+		value: "Switcher"
 		});
+		chrome.extension.getBackgroundPage().console.log("Switched!")
         return {requestHeaders: details.requestHeaders};
 },
-{urls: ["http://*.naver.com/", "http://naver.com/"]},
+{urls: ["http://*/*", "https://*/*"]},
 ["blocking", "requestHeaders"]
 )
